@@ -1,0 +1,1 @@
+console.log("I love how Git Works.")
